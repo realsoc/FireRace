@@ -25,4 +25,5 @@ Quelques points peuvent être améliorés :
 * L'UI est minimal et pourrait subir quelques amélioriations
 * L'app ne garde que la dernière course, on pourrait garder un historique des courses plus anciennes
 * Traiter les données pour apporter de nouvelles fonctionnalités à l'user, courbes d'évolution des ages etc
+* Authentifier l'user pour accéder à la BDD FireBase
 * ...
