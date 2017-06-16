@@ -1,5 +1,5 @@
 # FireRace
-L'application a pour but de récupérer la dernière course dans l'API de courses de F1 http://ergast.com/api/, et affiche à l'user après avoir gardé les données dans une BDD Firebase https://console.firebase.google.com/project/firerace-2251c/.
+L'application a pour but de récupérer la dernière course dans l'API de courses de F1 http://ergast.com/api/, et affiche l'age moyen des pilotes de la dernière course à l'user après avoir gardé les données dans une BDD Firebase https://console.firebase.google.com/project/firerace-2251c/.
 
 La BDD est ouverte à tout user, authentifié ou non.
 
